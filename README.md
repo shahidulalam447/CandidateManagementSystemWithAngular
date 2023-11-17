@@ -1,6 +1,6 @@
 # Candidate Management System - Angular
 
-Welcome to the Candidate Management with Angular.
+Welcome to the Candidate Management System with Angular.
 
 ### Home Page
 ![image](https://github.com/shahidulalam447/CandidateManagementSystemWithAngular/blob/master/Home.png)
